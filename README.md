@@ -10,6 +10,7 @@ The data sent to the StatsD server tries to be roughly equivalent to the [Indice
 
 | Elasticsearch  | Plugin         | Release date |
 | -------------- | -------------- | ------------ |
+| 6.5.4          | 6.5.4.0        | Feb 17, 2019 |
 | 6.5.0          | 6.5.0.0        | Jan 2,  2019 |
 | 6.4.3          | 6.4.3.0        | Jan 1,  2019 |
 | 6.4.2          | 6.4.2.0        | Oct 10, 2018 |
